@@ -1,0 +1,12 @@
+## <small>1.0.1 (2021-12-28)</small>
+
+* build: 构建项目配置 ([54c91eb](https://github.com/bnuephjx/Cheatnutchart-test/commit/54c91eb))
+* build: 构建项目配置 ([848edb2](https://github.com/bnuephjx/Cheatnutchart-test/commit/848edb2))
+* build: 添加版本控制 ([3e6f804](https://github.com/bnuephjx/Cheatnutchart-test/commit/3e6f804))
+* build: 修改 ([9d2eef6](https://github.com/bnuephjx/Cheatnutchart-test/commit/9d2eef6))
+* build(package.json): 添加版本管理 ([986fd77](https://github.com/bnuephjx/Cheatnutchart-test/commit/986fd77))
+* chore: 修改 ([d2b4adb](https://github.com/bnuephjx/Cheatnutchart-test/commit/d2b4adb))
+* first commit ([9eee579](https://github.com/bnuephjx/Cheatnutchart-test/commit/9eee579))
+
+
+
