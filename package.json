@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "一个图表库",
   "private": false,
-  "main": "lib/Cheatnutchart/index.js",
+  "main": "lib/Chestnutchart/index.js",
   "scripts": {
     "release": "release-it",
     "changelog": "conventional-changelog -i CHANGELOG.md -s -r 0",
