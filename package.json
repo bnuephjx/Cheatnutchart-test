@@ -2,14 +2,46 @@
   "name": "chearnutchart-test",
   "version": "1.0.0",
   "description": "一个图表库",
+  "private": false,
   "main": "lib/Cheatnutchart/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "3D",
-    "chart"
+    "chart",
+    "javascript",
+    "chestnut"
   ],
   "author": "evan",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnuephjx/Cheatnutchart-test.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnuephjx/Cheatnutchart-test/issues"
+  },
+  "homepage": "https://github.com/bnuephjx/Cheatnutchart-test/blob/master/README.md",
+  "dependencies": {
+    "d3": "^7.2.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "@release-it/bumper": "^2.0.0",
+    "commitizen": "^4.2.3",
+    "compare-func": "^2.0.0",
+    "conventional-changelog-chestnut": "^1.1.2",
+    "conventional-changelog-cli": "^2.1.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^4.3.6",
+    "release-it": "^14.2.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
