@@ -7,6 +7,7 @@
   "scripts": {
     "release": "release-it",
     "changelog": "conventional-changelog -i CHANGELOG.md -s -r 0",
+    "beforePublish": "rimraf ./clean && node ./clean-package.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
@@ -44,7 +45,8 @@
     "conventional-changelog-cli": "^2.1.1",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^4.3.6",
-    "release-it": "^14.2.2"
+    "release-it": "^14.2.2",
+    "rimraf": "^3.0.2"
   },
   "config": {
     "commitizen": {

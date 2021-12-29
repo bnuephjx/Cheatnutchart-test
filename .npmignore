@@ -14,3 +14,5 @@ node_modules/
 jest.config.js
 .release-it.json
 commitlint.config.js
+clean-package.js
+clean/
