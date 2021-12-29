@@ -1,7 +1,14 @@
+## <small>1.0.3 (2021-12-29)</small>
+
+* fix: 修改文件名 ([3b8f076](https://github.com/bnuephjx/Cheatnutchart-test/commit/3b8f076))
+
+
+
 ## <small>1.0.2 (2021-12-28)</small>
 
-* fix: 修改路径和新增npm忽略 ([60032bb](https://github.com/bnuephjx/Cheatnutchart-test/commit/60032bb))
 * chore: log ([6f019b6](https://github.com/bnuephjx/Cheatnutchart-test/commit/6f019b6))
+* chore: release v1.0.2 ([fa8c283](https://github.com/bnuephjx/Cheatnutchart-test/commit/fa8c283))
+* fix: 修改路径和新增npm忽略 ([60032bb](https://github.com/bnuephjx/Cheatnutchart-test/commit/60032bb))
 
 
 
