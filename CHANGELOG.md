@@ -1,6 +1,8 @@
-## <small>1.0.4 (2021-12-29)</small>
+## <small>1.0.5 (2021-12-29)</small>
 
+* ci: 修改publishConfig ([21a1b28](https://github.com/bnuephjx/Cheatnutchart-test/commit/21a1b28))
 * chore: release v1.0.3 ([3469dde](https://github.com/bnuephjx/Cheatnutchart-test/commit/3469dde))
+* chore: release v1.0.4 ([c58bc27](https://github.com/bnuephjx/Cheatnutchart-test/commit/c58bc27))
 * fix: 修改文件名 ([3b8f076](https://github.com/bnuephjx/Cheatnutchart-test/commit/3b8f076))
 
 
