@@ -1,8 +1,10 @@
-## <small>1.0.6 (2021-12-29)</small>
+## <small>1.0.7 (2021-12-29)</small>
 
+* build: 构建clean-package ([824743d](https://github.com/bnuephjx/Cheatnutchart-test/commit/824743d))
 * chore: release v1.0.3 ([3469dde](https://github.com/bnuephjx/Cheatnutchart-test/commit/3469dde))
 * chore: release v1.0.4 ([c58bc27](https://github.com/bnuephjx/Cheatnutchart-test/commit/c58bc27))
 * chore: release v1.0.5 ([918497a](https://github.com/bnuephjx/Cheatnutchart-test/commit/918497a))
+* chore: release v1.0.6 ([828efa2](https://github.com/bnuephjx/Cheatnutchart-test/commit/828efa2))
 * ci: 修改publishConfig ([21a1b28](https://github.com/bnuephjx/Cheatnutchart-test/commit/21a1b28))
 * fix: 修改文件名 ([3b8f076](https://github.com/bnuephjx/Cheatnutchart-test/commit/3b8f076))
 
