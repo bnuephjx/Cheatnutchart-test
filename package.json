@@ -9,6 +9,11 @@
     "changelog": "conventional-changelog -i CHANGELOG.md -s -r 0",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "ignore-scripts": true,
+    "production": true
+  },
   "keywords": [
     "3D",
     "chart",
