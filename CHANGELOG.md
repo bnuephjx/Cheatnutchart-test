@@ -1,5 +1,6 @@
-## <small>1.0.3 (2021-12-29)</small>
+## <small>1.0.4 (2021-12-29)</small>
 
+* chore: release v1.0.3 ([3469dde](https://github.com/bnuephjx/Cheatnutchart-test/commit/3469dde))
 * fix: 修改文件名 ([3b8f076](https://github.com/bnuephjx/Cheatnutchart-test/commit/3b8f076))
 
 
