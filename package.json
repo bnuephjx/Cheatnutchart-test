@@ -44,6 +44,7 @@
     "conventional-changelog-chestnut": "^1.1.2",
     "conventional-changelog-cli": "^2.1.1",
     "cz-conventional-changelog": "^3.3.0",
+    "fs-extra": "^10.0.1",
     "husky": "^4.3.6",
     "release-it": "^14.2.2",
     "rimraf": "^3.0.2"
