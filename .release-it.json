@@ -1,10 +1,10 @@
 {
-  "npm": false,
+  "npm": true,
   "git": {
     "commitMessage": "chore: release v${version}"
   },
   "hooks": {
-    "after:bump": "npm run changelog && npm run beforePublish",
+    "after:bump": "npm run changelog",
     "after:git:release": "echo Successfully git push to ${repo.remote}",
     "after:release": "echo Successfully released ${name} v${version} to ${repo.repository}."
   },
