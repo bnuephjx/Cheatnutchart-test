@@ -1,4 +1,5 @@
 // https://stackoverflow.com/questions/40942495/clean-package-json-before-packing
+// 在npm发包之前之前这个命令，可以优化package.json再进行npm publish
 const fs = require('fs-extra');
 const path = require('path');
 
